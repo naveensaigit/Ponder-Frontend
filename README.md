@@ -1,4 +1,4 @@
-# Pdfviewer
+# Ponder
 
 A flutter frontend for the Ponder App, for FrostHack 2021 (Team- NaamMeikyaRakhaHai).
 
