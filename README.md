@@ -8,7 +8,7 @@ Steps to run this project:
 1. clone this repo and then `cd <PROJ_DIR>`
 2. `flutter pub get`  (alternative-  `flutter packages get`)
 3. Start Android emulator/ USB Debugging
-3. `flutter start`
+3. `flutter run --no-sound-null-safety`
 
 Referece Repos:
     >https://github.com/liyuanhust/flutter_simple_pdf_viewer
