@@ -11,3 +11,5 @@ Steps to run this project:
 3. `flutter start`
 
 Referece Repos:
+    >https://github.com/liyuanhust/flutter_simple_pdf_viewer
+    >https://github.com/JohannesMilke/pdf_viewer_example
