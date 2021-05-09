@@ -1,12 +1,13 @@
-# pdfviewer
+# Pdfviewer
 
-A flutter frontend for the Ponder App, for FrostHack 2021.
+A flutter frontend for the Ponder App, for FrostHack 2021 (Team- NaamMeikyaRakhaHai).
 
-## Getting Started
+## _Getting Started_
 
 Steps to run this project:
-1. cd <PROJ_DIR>
-2. flutter pub get
-3. flutter start
+1. clone this repo and then `cd <PROJ_DIR>`
+2. `flutter pub get`  (alternative-  `flutter packages get`)
+3. Start Android emulator/ USB Debugging
+3. `flutter start`
 
 Referece Repos:
